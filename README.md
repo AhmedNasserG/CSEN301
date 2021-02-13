@@ -1,18 +1,18 @@
 # CSEN301 Data Structure & Algorithms
----
-## Goals of this Repo
-1. **Share** my Practice Assignment Solutions of CSEN301 Course with others
-2. **Save** and **Organize** my solution to use them as a *DS&A* reference for me in the future If needed
----
-## Brief about the course
+
+## Goals of this Repository
+1. **Share** my Practice Assignment Solutions of CSEN301 Course with others.
+2. **Save** and **Organize** my solution to use them as a *DS&A* reference for me in the future If needed.
+
+## Brief about this Course
 
 - This Course is provided by:
-**German University in Cairo
-Faculty of Media Engineering and Technology
-Department of Computer Science and Engineering**
-- For 3rd Semester CS Students
-- Used Language is **Java**
----
+**German University in Cairo**,
+**Faculty of Media Engineering and Technology**,
+**Department of Computer Science and Engineering**.
+- For 3rd Semester CS Students.
+- Used Language is **Java**.
+
 ## Content
 
 |  #  | Topic Covered     |  Practice Assignment      |  My Solutions      |
@@ -28,6 +28,6 @@ Department of Computer Science and Engineering**
 | 9   | Trees I           | [PA 9](PA-pdfs/PA9.pdf)   | [PA 9 Sol](PA9/)   |
 | 10  | Trees II          | [PA 10](PA-pdfs/PA10.pdf) | [PA 10 Sol](PA10/) |
 | 11  | Hash Tables       | [PA 11](PA-pdfs/PA11.pdf) | [PA 11 Sol](PA11/) |
----
+
 ## Credits ©
-Solutions by [Ahmed Nasser](https://github.com/AhmedNasserG)
+Solutions by [Ahmed Nasser](https://github.com/AhmedNasserG).
